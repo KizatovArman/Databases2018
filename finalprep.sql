@@ -155,7 +155,7 @@ SELECT name,grade FROM highschooler
 			GROUP BY ID2
 				HAVING count(ID2)>=2);
 
-SELECT h.name FROM highschooler h
+SELECT h.name FROM highschooler hkjasf
 	
 
 
